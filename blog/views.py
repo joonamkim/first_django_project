@@ -9,7 +9,7 @@ def blog_index(request):
     context = {
         "posts": posts
     }
-    return render(request, "blog_index_html", context)
+    return render(request, "blog_index.html", context)
 
 
 def blog_category(request, category):
@@ -22,7 +22,7 @@ def blog_category(request, category):
         "posts": posts
     }
 
-    return render(request, "blog_cateogry.html", context)
+    return render(request, "blog_category.html", context)
 
 
 def blog_detail(request, pk):

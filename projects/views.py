@@ -20,6 +20,6 @@ def project_detail(request, pk):
     }
     return render(request, 'project_detail.html', context)
 
-#
-# def blog_index(request):
-#     return render(request, 'blog_index.html')
+
+def blog_index(request):
+    return render(request, 'blog_index.html')
