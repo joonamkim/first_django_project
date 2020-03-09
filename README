@@ -4,3 +4,11 @@ DEPLOYED to https://frozen-garden-30772.herokuapp.com/projects/
 ## SETTING UP FOR CLOUD ENVIRONMENT ##
 
 https://devcenter.heroku.com/articles/django-assets
+
+https://devcenter.heroku.com/articles/error-codes
+
+https://devcenter.heroku.com/articles/procfile
+
+https://devcenter.heroku.com/articles/dynos
+
+https://devcenter.heroku.com/articles/python-gunicorn
