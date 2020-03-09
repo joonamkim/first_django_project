@@ -24,7 +24,7 @@ SECRET_KEY = 'arnhyqep%&57ckqva@%!x**oj%7pgip2@ychz6oa7oe2@66%sf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['frozen-garden-30772.herokuapp.com']
 
 # Application definition
 
